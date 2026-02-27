@@ -1,1 +1,1 @@
-# Walmart-Sales-Demand-Forecasting-Capstone
+# Walmart Sales Demand Forecasting Capstone
